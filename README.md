@@ -1,5 +1,5 @@
 # slg_server
-Hit The Road!!!
+Hit The Road!!! ^_^ 
 
 --------------------------------READ_ME FIRST!------------------------------------
 
@@ -22,5 +22,16 @@ XiHa结构相关：
     dependencies --依赖库及第三方工具
     game    --逻辑服务相关
 
+第三方工具及库说明：
+    lua-protobuf  纯C的protobuf协议实现，和对应的Lua绑定，跨平台 编译看wiki or README.md ^_^
+    传送门:https://github.com/starwing/lua-protobuf.git
 
+    pbc  协议缓冲库
+    传送门:https://github.com/cloudwu/pbc
+
+    protobuf google protobuf协议
+    传送门:https://github.com/protocolbuffers/protobuf.git
+
+    skynet   云大大写的轻量级游戏服务器框架  编译看wiki or README.md ^_^
+    传送门:https://github.com/cloudwu/skynet.git
 --------------------------------END!-----------------------------------------------
